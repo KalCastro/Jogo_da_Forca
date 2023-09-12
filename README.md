@@ -40,7 +40,7 @@
 <p>A classe <code>InterfaceForca</code> é responsável por gerenciar o estado do jogo e controlar se o jogo irá reiniciar. Ela possui os seguintes atributos e métodos:</p>
 <p>Métodos:</p>
 <ul>
-    <li><code>atualizarInterface</code>: Atualiza a interface e reinicia o jogo.</li>
+    <li><code>atualizarInterface()</code>: Atualiza a interface e reinicia o jogo.</li>
 </ul>
 
 

@@ -60,3 +60,36 @@
 <br>
 <h2>Diagrama de Casos de Uso</h2>
 <img src="imgs/uso.png" height="600px" width="800px">
+<p><strong>Nome do caso de uso: </strong>Jogo da Forca;<br>
+   <strong>Caso de uso geral: </strong>Adivinhar palavra;<br>
+   <strong>Ator principal: </strong>Jogador;<br>
+   <strong>Ator secundário: </strong>JComputador;<br>
+   <strong>Resumo: </strong>O jogador tem como objetivo acertar a palavra antes de competir o boneco(desenho);<br>
+   <strong>Pré-condições: </strong>Se a palavra for completada antes do boneco ser completado, o jogador ganha e o jogo acaba;<br>
+   <strong>Pré-condições: </strong>Se o boneco for completada antes do boneco ser completado, o jogador perde e o jogo acaba;<br>
+   <strong>Ações do ator: </strong>Ações do sistema do jogo da forca.<br>
+</p>
+
+<h2> Ações</h2>
+<ol>
+  <li>O jogador inicia o jogo;</li>
+  <li>O jogo identifica o nível a ser jogado pelo jogador;</li>
+  <li>Se o jogador encostar em um obstáculo, perde uma vida;</li>
+  <li>Passando pelos obstáculos, o jogador continua jogando até avançar para o próximo nível;</li>
+  <li>Se o jogador perder todas as vidas, tem a opção de jogar novamente;</li>
+  <li>Concluindo todos os níveis, o jogador tem a opção de jogar novamente.</li>
+</ol>
+<h3> Restrições</h3>
+<ol>
+  <li>Para perder o jogo, o jogador deve esgotar suas três vidas.</li>
+</ol>
+
+<h2>Ordem</h2>
+<h3>Ações do Jogador: </h3>
+<p>1,2.</p>
+<h3>Ações do Jogo: </h3>
+<p>3,4,5,6,7,8,9.</p>
+</body>
+
+
+

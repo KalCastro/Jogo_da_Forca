@@ -18,7 +18,7 @@
     <li><code>desenharParteBoneco()</code>: Se a letra for errada, irá ser desenhado uma parte de o boneco.</li>
 </ul>
 <br>
-<h3>Classe <code>InterfaceForca</code></h3>
+<h3>Classe <code>bonecoForca</code></h3>
 <p>A classe <code>bonecoForca</code> é responsável por controlar o progresso do boneco. Ela possui os seguintes atributos e métodos:</p>
 <ul>
     <li><code>partesBoneco</code>: O total de partes que o boneco tem, como o braço, a perna ou a cabeça.</li>

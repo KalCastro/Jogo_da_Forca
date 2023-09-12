@@ -46,13 +46,13 @@
 
 <br>
 <h2>Diagrama de Atividade</h2>
-<img src="imgs/atividade.png" height="706px" width="512px">
-<h3>Classe <code>JogoDaForca</code></h3>
+<img src="imgs/atividade.png" height="706px" width="572px">
+<h3> <code>JogoDaForca</code></h3>
     <li><code>gerar uma palavra aleatoria</code>: O jogo gera uma palavra aleatoria.</li>
     <li><code>chutar letra</code>: O jogador chuta uma letra.</li>
     <li><code>acrescenta a letra na palavra</code>:Se a letra for correta, é acrescentado a letra na palavra.</li>
 
-<h3>Classe <code>BonecoForca</code></h3>
+<h3> <code>BonecoForca</code></h3>
 <ul>
     <li><code>desenhar uma parte do boneco</code>:Se a letra for incorreta, é desenhado uma parte do boneco.</li>
 </ul>

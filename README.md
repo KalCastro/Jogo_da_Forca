@@ -73,15 +73,21 @@
 <h2> Ações</h2>
 <ol>
   <li>O jogador inicia o jogo;</li>
-  <li>O jogo identifica o nível a ser jogado pelo jogador;</li>
-  <li>Se o jogador encostar em um obstáculo, perde uma vida;</li>
-  <li>Passando pelos obstáculos, o jogador continua jogando até avançar para o próximo nível;</li>
-  <li>Se o jogador perder todas as vidas, tem a opção de jogar novamente;</li>
-  <li>Concluindo todos os níveis, o jogador tem a opção de jogar novamente.</li>
+  <li>O jogo gera uma palavra aleatória;</li>
+  <li>O jogador escolhe uma letra aleatória;</li>
+  <li>O computador verifica se a letra faz parte da palavra;</li>
+  <li>Se sim, o jogador continua o jogo e é registrado a letra na palavra;</li>
+  <li>Se não, é desenhado uma parte do boneco e é registrado a letra como usada;</li>
+  <li>Se o boneco for completado antes da palavra ser formada, o jogador perde;</li>
+  <li>Se a palavra for formada antes do boneco ser completado, o jogador ganha;</li>
+  <li>O computador irá verificar as duas alternativas anteriores;</li>
+  <li>O jogo acaba.</li>
 </ol>
 <h3> Restrições</h3>
 <ol>
-  <li>Para perder o jogo, o jogador deve esgotar suas três vidas.</li>
+  <li>Para perder o jogo, o jogador deve completar o boneco todo;</li>
+  <li>Para ganhar é preciso acertar a palavra antes do boneco ser completado;</li>
+  <li>Não vale utilizar numeros ou outros que não sejam letras do alfabeto.</li>
 </ol>
 
 <h2>Ordem</h2>

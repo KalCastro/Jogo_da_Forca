@@ -1,4 +1,4 @@
-var palavras = ['AMOGUS', 'HADES', 'BLOODBORNE', 'BATATA', 'SUS', 'CASTRO LINDO'];
+var palavras = ['CEBOLINHA', 'HADES', 'VALDEZ', 'EVENLYNHUGO', 'INDO ALI', 'ROBERT'];
 var quantiErros = 0;
 var acertos = 0;
 var tentativas = "";
